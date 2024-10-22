@@ -43,3 +43,11 @@ Jeg hedder Julie og jeg er sej:))
 ```{r}
 print("Julie er sej")
 ```
+
+#### new analysis
+
+her er der en ny analyse
+
+```{r}
+Print("den nye analyse")
+```
