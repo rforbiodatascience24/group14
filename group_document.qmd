@@ -12,4 +12,10 @@ editor: visual
 
 ### Amalie
 
+Fra mig til jer:
+
+```{r}
+print("Error 404: Fun not found... Just kidding! 😄")
+```
+
 ### Julie
