@@ -21,6 +21,25 @@ Best_group<-J+LL+C+A
 
 ### Lise Lotte
 
+Hej! \<enter some text\>
+
+```{r code chunk}
+x <- 1+2
+y <- x*2
+```
+
 ### Amalie
 
+Fra mig til jer:
+
+```{r}
+print("Error 404: Fun not found... Just kidding! 😄")
+```
+
 ### Julie
+
+Jeg hedder Julie og jeg er sej:))
+
+```{r}
+print("Julie er sej")
+```
