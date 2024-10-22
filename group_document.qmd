@@ -26,6 +26,16 @@ Hej! \<enter some text\>
 ```{r code chunk}
 x <- 1+2
 y <- x*2
+
+```
+
+#### New feature
+
+Hej igen! men fra en anden sektion
+
+```{r}
+z <- "hej"
+print(z)
 ```
 
 ### Amalie
