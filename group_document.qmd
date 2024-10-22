@@ -1,0 +1,15 @@
+---
+title: "group_document"
+format: html
+editor: visual
+---
+
+## Group document
+
+### Cecilie
+
+### Lise Lotte
+
+### Amalie
+
+### Julie
