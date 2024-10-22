@@ -19,6 +19,14 @@ LL<-1
 Best_group<-J+LL+C+A
 ```
 
+#### New feature
+
+This is a branch
+
+```{r}
+print("This is the best branch <3")
+```
+
 ### Lise Lotte
 
 Hej! \<enter some text\>
