@@ -10,6 +10,13 @@ editor: visual
 
 ### Lise Lotte
 
+Hej! \<enter some text\>
+
+```{r code chunk}
+x <- 1+2
+y <- x*2
+```
+
 ### Amalie
 
 ### Julie
