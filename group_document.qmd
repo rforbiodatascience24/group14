@@ -8,6 +8,17 @@ editor: visual
 
 ### Cecilie
 
+Hej allesammen :)
+
+```{r}
+2+2
+J<-1
+C<-1
+A<-1
+LL<-1
+Best_group<-J+LL+C+A
+```
+
 ### Lise Lotte
 
 ### Amalie
