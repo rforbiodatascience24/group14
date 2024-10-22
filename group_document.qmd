@@ -13,3 +13,9 @@ editor: visual
 ### Amalie
 
 ### Julie
+
+Jeg hedder Julie og jeg er sej:))
+
+```{r}
+print("Julie er sej")
+```
