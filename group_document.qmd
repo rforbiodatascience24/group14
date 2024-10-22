@@ -46,6 +46,16 @@ Fra mig til jer:
 print("Error 404: Fun not found... Just kidding! 😄")
 ```
 
+#### New feature
+
+Here is a new feature for you:
+
+```{r}
+p <- data.frame(a = 1:5)
+p$emoji <- sample(c("😀", "🐱", "🍕", "🚀", "🌈"), 5, replace = TRUE)
+print(p)
+```
+
 ### Julie
 
 Jeg hedder Julie og jeg er sej:))
